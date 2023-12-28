@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tienda: MyString
+  organization_id: MyString
+  token_actual: MyText
+  datos_respuesta: MyText
+
+two:
+  tienda: MyString
+  organization_id: MyString
+  token_actual: MyText
+  datos_respuesta: MyText
